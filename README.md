@@ -1,3 +1,8 @@
+**Forked by Jorge Luis de la Torre (jorgedlt) for experimentation and learning C++.**  
+**Original repository:** https://github.com/TheAlgorithms/C-Plus-Plus
+
+---
+
 # The Algorithms - C++ # {#mainpage}
 
 <!-- the suffix in the above line is required for doxygen to consider this as the index page of the generated documentation site -->
